@@ -1,1 +1,2 @@
-#!bash/bin qoute> whoami
+#!/bin/bash
+id-un
