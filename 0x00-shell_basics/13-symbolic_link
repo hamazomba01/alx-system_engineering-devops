@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir -p ls/bin/ls
+ln -s /bin/ls __ls__
+
